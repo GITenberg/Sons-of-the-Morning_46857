@@ -1,4 +1,8 @@
 _repo: Sons-of-the-Morning_46857
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46857-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Phillpotts, Eden
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/665
     wikipedia: http://en.wikipedia.org/wiki/Eden_Phillpotts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46857#Sons-of-the-Morning
 gutenberg_issued: '2014-09-14'
 gutenberg_type: Text
 identifiers:
